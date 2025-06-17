@@ -13,23 +13,8 @@
     Berbasis GUI dan MultiUser
     <br />
     <br />
-    <a href="https://www.tiktok.com/@apotekpermata_pbo/video/7185924091608616218?is_from_webapp=1&sender_device=pc&web_id=7164575964569126401">View Demo</a>
     ·
-    <a href="https://github.com/IlhamLamp/java-Sistem_Informasi_Apotek/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/IlhamLamp/java-Sistem_Informasi_Apotek/issues">Request Feature</a>
-  </p>
-  <div align="center"> ANGGOTA KELOMPOK :
-    <br>
-    Ananda Prasca Appandi (312010157)
-    <br>
-    Fahmi Eko Putro Santoso (312010046)
-    <br>
-    Ilham Nur Utomo (312010129)
-    <br>
-    Wayis Al Qorni TS (312010169)
-  </div>
-</div>
+
 
 <!-- ABOUT THE PROJECT -->
 
