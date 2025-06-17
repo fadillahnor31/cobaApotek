@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/IlhamLamp/java-Sistem_Informasi_Apotek">
+  <a href="[https://github.com/IlhamLamp/java-Sistem_Informasi_Apotek](https://github.com/fadillahnor31/cobaApotek)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
