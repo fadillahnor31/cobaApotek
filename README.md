@@ -51,7 +51,7 @@ Teknologi yang digunakan
 
 - Clone the repo
   ```sh
-  git clone https://github.com/IlhamLamp/java-Sistem_Informasi_Apotek.git
+ (https://github.com/fadillahnor31/cobaApotek)
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
